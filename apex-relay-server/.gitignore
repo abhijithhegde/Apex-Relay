@@ -1,0 +1,4 @@
+.env
+package-lock.json
+routes.rest
+node_modules
